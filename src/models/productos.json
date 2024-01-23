@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Bulbasaur",
+      "description": "Es un sapo",
+      "price": 2001,
+      "img": "Sin imagen",
+      "code": "abc12311",
+      "stock": 251
+    },
+    {
+      "id": 2,
+      "title": "Ivysaur",
+      "description": "Es un sapo más grande",
+      "price": 2002,
+      "img": "Sin imagen",
+      "code": "abc12322",
+      "stock": 252
+    },
+    {
+      "id": 3,
+      "title": "Venusaur",
+      "description": "Es un REMIL sapo",
+      "price": 2003,
+      "img": "Sin imagen",
+      "code": "abc12333",
+      "stock": 253
+    },
+    {
+      "id": 4,
+      "title": "Charmander",
+      "description": "Es un lagarto",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 5,
+      "title": "Charmeleon",
+      "description": "Es un lagarto malo",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 6,
+      "title": "Charizard",
+      "description": "Es un dragon",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 7,
+      "title": "Squirtle",
+      "description": "Es na tortuga",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 8,
+      "title": "Wartortle",
+      "description": "Es una tortuga mas fachera",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 9,
+      "title": "Blastoise",
+      "description": "Es una mega-tortuga con cañones de la NASA",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    },
+    {
+      "id": 10,
+      "title": "Caterpie",
+      "description": "Es un gusano bueno para nada",
+      "price": 2004,
+      "img": "Sin imagen",
+      "code": "abc12334",
+      "stock": 253
+    }
+   
+  ]
